@@ -1,2 +1,2 @@
 # shibaraku-hanaremasu
-## anti-afk for valorant
+anti-afk for valorant
