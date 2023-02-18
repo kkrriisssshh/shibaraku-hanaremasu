@@ -1,5 +1,5 @@
 [keys]
 forward = "w"
 backward = "s"
-left = "q"
+left = "a"
 right = "d"
