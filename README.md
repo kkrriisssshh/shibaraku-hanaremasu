@@ -2,11 +2,13 @@
 anti-afk for valorant
 
 todo:
-- executable/pre-compiled binary: x
-- run in background: x
-- run on startup: x
-- gui: x
+100% finished
 
 done:
 - core: v
 - user-asignable keys: v
+- executable/pre-compiled binary: v
+- run on startup: v
+- gui: v
+
+fun fact: the core functionality of this project was made while in an unrated match in rust until i realized i hadn't mastered the language
