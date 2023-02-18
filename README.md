@@ -1,9 +1,17 @@
 # shibaraku-hanaremasu
 anti-afk for valorant
 
-todo:
-100% finished
+prerequesits:
+- python 3.7+
+- windows 10
+- everything in requirements
 
+how to download:
+- pre-compiled binaries (uses upx for compression): https://github.com/kkrriisssshh/shibaraku-hanaremasu/releases
+- compile it yourself (uses upx for compression): run compile.py
+
+todo:
+- 100% finished
 done:
 - core: v
 - user-asignable keys: v
