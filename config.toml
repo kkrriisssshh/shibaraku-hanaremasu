@@ -1,0 +1,5 @@
+[keys]
+forward = "x"
+backward = "y"
+left = "z"
+right = "v"
