@@ -10,9 +10,9 @@ import os
 
 # define the default key assignments
 DEFAULT_KEYS = {
-    "forward": "z",
-    "backward": "q",
-    "left": "s",
+    "forward": "w",
+    "backward": "s",
+    "left": "q",
     "right": "d"
 }
 
